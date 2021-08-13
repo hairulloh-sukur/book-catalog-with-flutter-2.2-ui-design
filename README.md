@@ -1,16 +1,37 @@
-# book_catalog
+<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width=25% height=25%/> 
 
-A new Flutter project.
+# book-catalog-with-flutter-2.2-ui-design
 
-## Getting Started
+This is a UI design project with book catalog theme, created with Flutter 2.2.3, consisting of a main page and product details.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Home Page as Product List.
+- Detail Product
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Dependencies
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make sure it's installed in pubspec.yaml:
+
+google_fonts 2.1.0:
+```bash
+  flutter pub add google_fonts
+```
+
+intl 0.17.0:
+```bash
+  flutter pub add intl
+```
+
+## Screenshot
+
+#### All Preview:
+<p align="left"> 
+    <img src="https://github.com/hairulloh-sukur/book-catalog-with-flutter-2.2-ui-design/blob/master/screenshot/book_catalog.gif" width=25% height=25%/> 
+</p>
+
+#### Portrait:
+<p align="left"> 
+    <img src="https://github.com/hairulloh-sukur/book-catalog-with-flutter-2.2-ui-design/blob/master/screenshot/home_page.png" width=25% height=25%/>  
+    <img src="https://github.com/hairulloh-sukur/book-catalog-with-flutter-2.2-ui-design/blob/master/screenshot/detail_page.png" width=25% height=25%/>  
+</p>
