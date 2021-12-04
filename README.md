@@ -1,13 +1,19 @@
-<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width=25% height=25%/> 
+<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width=25% height=25%/> 
+
+<br>
 
 # book-catalog-with-flutter-2.2-ui-design
 
 This is a UI design project with book catalog theme, created with Flutter 2.2.3, consisting of a main page and product details.
 
+<br>
+
 ## Features
 
 - Home Page as Product List.
 - Detail Product
+
+<br>
 
 ## Dependencies
 
@@ -22,6 +28,7 @@ intl 0.17.0:
 ```bash
   flutter pub add intl
 ```
+<br>
 
 ## Screenshot
 
